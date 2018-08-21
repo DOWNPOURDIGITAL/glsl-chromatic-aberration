@@ -1,0 +1,32 @@
+{
+  "name": "glsl-chromatic-aberration",
+  "version": "1.0.0",
+  "description": "glslify function for approximating chromatic aberration",
+  "main": "./ca.glsl",
+  "repository": "https://github.com/DOWNPOURDIGITAL/glsl-chromatic-aberration.git",
+  "homepage": "https://github.com/DOWNPOURDIGITAL/glsl-chromatic-aberration",
+  "bugs": {
+      "url": "https://github.com/DOWNPOURDIGITAL/glsl-chromatic-aberration/issues"
+  },
+  "author": "JohH <code@johh.net>",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "glsl",
+    "shader",
+    "webgl",
+    "stackgl",
+    "glslify",
+    "shaders",
+    "chromatic",
+    "aberration",
+    "color",
+    "purple",
+    "fringing",
+    "post",
+    "processing"
+  ],
+  "peerDependencies": {
+      "glslify": ">1.0.0"
+  }
+}
