@@ -1,6 +1,6 @@
 {
   "name": "glsl-chromatic-aberration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "glslify function for approximating chromatic aberration",
   "main": "./ca.glsl",
   "repository": "https://github.com/DOWNPOURDIGITAL/glsl-chromatic-aberration.git",
