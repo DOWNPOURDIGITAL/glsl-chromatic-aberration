@@ -6,7 +6,7 @@
   "repository": "https://github.com/DOWNPOURDIGITAL/glsl-chromatic-aberration.git",
   "homepage": "https://github.com/DOWNPOURDIGITAL/glsl-chromatic-aberration",
   "bugs": {
-      "url": "https://github.com/DOWNPOURDIGITAL/glsl-chromatic-aberration/issues"
+    "url": "https://github.com/DOWNPOURDIGITAL/glsl-chromatic-aberration/issues"
   },
   "author": "JohH <code@johh.net>",
   "license": "MIT",
@@ -27,6 +27,6 @@
     "processing"
   ],
   "peerDependencies": {
-      "glslify": ">1.0.0"
+    "glslify": ">1.0.0"
   }
 }
